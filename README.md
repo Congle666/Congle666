@@ -55,22 +55,4 @@
 | [**Profilo**](https://github.com/Congle666/Profilo) | Personal portfolio — cosmic UI, GPA chart, smooth animations | React · TailwindCSS |
 | [**News_24h**](https://github.com/Congle666/News_24h) | 24h news aggregator | HTML |
 
----
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Congle666&show_icons=true&theme=github_dark&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Congle666&layout=compact&theme=github_dark&hide_border=true)
-
-</div>
-
----
-
-<div align="center">
-
-*"Code is like humor. When you have to explain it, it's bad."*
-
-</div>
